@@ -1,4 +1,3 @@
-
 Análisis Granulométrico Automatizado con Python
 Práctica 5 – Modelado de Problemas en Ingeniería Civil
 📘 Descripción del Proyecto
@@ -38,24 +37,3 @@ Generar evidencia gráfica y documental de los resultados.
 Organizar el proyecto en una estructura clara de archivos.
 
 Utilizar Python como herramienta profesional para análisis de suelos.
-
-
-✔️ Estado del proyecto
-
-Este proyecto cumple con:
-
- Modelado matemático
-
- Manejo de datos con listas y NumPy
-
- Cálculos granulométricos
-
- Curva granulométrica
-
- Generación de PDF
-
- Código modular
-
- Interfaz gráfica (opcional)
-
- Estructura profesional de repositorio
